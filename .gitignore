@@ -1,0 +1,5 @@
+# Ignore the _output directory
+_output/
+
+# Ignore summary.html anywhere in the repo
+summary.html
